@@ -1,0 +1,74 @@
+
+h1.title {
+    color: #FF4500;
+    font-size: 28px;
+    text-align: center;
+    font-style: oblique;
+  }
+ 
+h2.title {
+    color: #af3131;
+    font-size: 20px;
+    text-align: center;
+    font-style: oblique;
+  }
+  
+  img.photo_main {
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+    border: 2px solid #FF4500;
+    border-radius: 15%;
+  }
+
+  img.photo {
+    display: block;
+    margin: 0 auto;
+    border: 2px solid #FF4500;
+    border-radius: 15%;
+    text-align: center;
+  }
+  
+  div.information {
+    text-align: center;
+    font-size: 18px;
+    font-style: oblique;
+    line-height: 1.5;
+  }
+
+   a.a {
+    color:rgb(7, 111, 247);
+    position: absolute;
+    right: 50px;
+    font-size: 18px;
+    font-style: oblique;
+    line-height: 1.5;
+  }
+  a.b {
+    color:rgb(7, 111, 247);
+    position: absolute;
+    right: 50px;
+    font-size: 18px;
+    font-style: oblique;
+    line-height: 1.5;
+  }
+  
+  ul.contact {
+    border: 3px solid rgb(255, 2, 2);
+    width: 350px;
+    border-radius: 20%;
+    translate: 192%;
+    font-size: 18px;
+    font-style: normal;
+    line-height: 1.5;
+  }
+
+  div img {
+    flex-direction: column;
+    align-items: flex-start;
+    align-content: center;
+    width: 620px;
+    margin: auto;
+    border: 2px solid #FF4500;
+    border-radius: 15%;
+  }
